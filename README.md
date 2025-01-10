@@ -4,6 +4,5 @@ A discord bot gen of **B1NS** with the api __**https://www.handyapi.com/bin-list
 > [!IMPORTANT]  
 > This repo is only for **EDUCATIONAL PURPOSES** and i am not **responsible** of yours acts with the code.
 > 
-> [!WARNING]  
-> This repo is only for **EDUCATIONAL PURPOSES** and i am not **responsible** of yours acts with the code.
-> 
+> [!CAUTION]
+> YOU NEED TO CHANGE THE CODE FOR YOUR SERVER
